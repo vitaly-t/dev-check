@@ -1,6 +1,6 @@
 {
   "name": "dev-check",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Reliable & flexible DEV environment verification",
   "main": "index.js",
   "scripts": {

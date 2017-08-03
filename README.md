@@ -1,10 +1,10 @@
-is-dev
-======
+dev-check
+=========
 
 Reliable, flexible and fast `DEV` environment verification.
 
-[![Build Status](https://travis-ci.org/vitaly-t/is-dev.svg?branch=master)](https://travis-ci.org/vitaly-t/is-dev)
-[![Coverage Status](https://coveralls.io/repos/vitaly-t/is-dev/badge.svg?branch=master)](https://coveralls.io/r/vitaly-t/is-dev?branch=master)
+[![Build Status](https://travis-ci.org/vitaly-t/dev-check.svg?branch=master)](https://travis-ci.org/vitaly-t/dev-check)
+[![Coverage Status](https://coveralls.io/repos/vitaly-t/dev-check/badge.svg?branch=master)](https://coveralls.io/r/vitaly-t/dev-check?branch=master)
 
 ## Features
 
